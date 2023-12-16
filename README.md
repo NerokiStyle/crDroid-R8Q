@@ -7,3 +7,8 @@ This is a project that is in the development phase and we are trying hard to del
 
 # WARNING
 This project is still being tested, there is a high chance of bugs 
+
+# Credits 
+- [crDroid](https://github.com/crdroidandroid)
+- [r8q-dev](https://github.com/r8q-dev/)
+- [Pixel Experience](https://github.com/PixelExperience)
