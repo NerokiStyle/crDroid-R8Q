@@ -6,6 +6,7 @@
 This is a project that is in the development phase and we are trying hard to deliver something stable to everyone in the community.
 
 # WARNING
+ONLY FOR SNAPDRAGON VERSION 
 This project is still being tested, there is a high chance of bugs 
 
 # Credits 
